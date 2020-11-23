@@ -20,11 +20,11 @@ Under construction now.
 This year has been incredibly challenging for everyone. I have personally been working on building habits of self-compassion and taking care of myself to thrive during this pandemic. This app would allow me to create my own personal list that will help me on difficult days and introduces a bit of fun and spontaneity with the wheel.
 
 ## Tech Used
--Bootstrap
--HTML
--JS with ES6 Modules
--jQuery
--React
--SASS
+- Bootstrap
+- HTML
+- JS with ES6 Modules
+- jQuery
+- React
+- SASS
 
 
